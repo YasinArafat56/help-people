@@ -1,0 +1,51 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+.center{
+    text-align: center;
+    padding-top:20%;
+    color: rgb(237, 248, 248);
+}
+.first{
+    background-image: url(images/h3.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 700px;
+}    
+.donate-button{
+    text-decoration: none;
+    background-color:tomato;
+    padding: 10px 20px;
+    border-radius: 5px;
+    color: rgb(230, 225, 235);
+    font-size: 15px;
+}    
+.donate-plan{
+    text-align: center;
+    font-size:20px ;
+}
+.tk{
+    display: flex;
+    width: 80%;
+    margin-left: 130px;
+}
+.donate-tk{
+    padding:20px;
+    background-color: rgb(180, 193, 204);
+    margin: 0 auto;
+    border-radius: 5px;
+}
+#regular-donate{
+    background-color: rgb(247, 145, 145);
+    color: red;
+    padding: 20px;
+    border: 2px solid red;
+}
+.other-amount{
+    text-align: center;
+    color: beige;
+}
+   
+    
+
+   
